@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/background-1462755.jpg");
+  background-image: url("np://user.desktop.nicepage.com/Site_118766853/images/background-1462755.jpg?rand=7ba0");
   background-position: 50% 50%;
 }
 
@@ -22,7 +22,7 @@
 .u-section-1 .u-image-1 {
   width: 456px;
   height: 456px;
-  background-image: url("images/Untitleddesign.png");
+  background-image: url("np://user.desktop.nicepage.com/Site_118766853/images/avisa1.png?rand=ef14");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -33,8 +33,8 @@
 }
 
 .u-section-1 .u-group-1 {
-  width: 724px;
-  min-height: 186px;
+  width: 723px;
+  min-height: 159px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.15);
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -230,7 +230,7 @@
   min-height: 420px;
   margin-top: 0;
   margin-bottom: 0;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/pexels-suraphat-nueaon-933624.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("np://user.desktop.nicepage.com/Site_118766853/images/pexels-suraphat-nueaon-933624.jpg");
   background-position: 50% 50%;
 }
 
@@ -715,7 +715,7 @@
 .u-section-3 .u-image-1 {
   height: 494px;
   width: 494px;
-  background-image: url("images/pexels-mica-asato-1198171.jpg");
+  background-image: url("np://user.desktop.nicepage.com/Site_118766853/images/pexels-mica-asato-1198171.jpg?rand=dcee");
   background-position: 82.25% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -947,7 +947,7 @@
     padding: 14px 65px 15px;
   }
 }.u-section-4 .u-sheet-1 {
-  min-height: 579px;
+  min-height: 512px;
 }
 
 .u-section-4 .u-text-1 {
@@ -960,20 +960,8 @@
   margin: 33px auto 0;
 }
 
-.u-section-4 .u-text-2 {
-  --animation-custom_in-translate_x: 0px;
-  --animation-custom_in-translate_y: 300px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 1;
-  width: 570px;
-  font-size: 1rem;
-  margin: 16px auto 0;
-}
-
 .u-section-4 .u-list-1 {
-  margin-top: 42px;
-  margin-bottom: 42px;
+  margin: 55px 0;
 }
 
 .u-section-4 .u-repeater-1 {
@@ -998,7 +986,7 @@
 .u-section-4 .u-image-1 {
   width: 106px;
   height: 106px;
-  background-image: url("images/WhatsAppImage2022-09-16at6.09.46PM-43.jpeg");
+  background-image: url("np://user.desktop.nicepage.com/Site_118766853/images/WhatsAppImage2022-09-16at6.09.46PM-43.jpeg?rand=ab76");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 50px;
   --animation-custom_in-translate_y: 0px;
@@ -1008,7 +996,7 @@
   margin: 0 auto 0 0;
 }
 
-.u-section-4 .u-text-3 {
+.u-section-4 .u-text-2 {
   font-weight: 700;
   --animation-custom_in-translate_x: 300px;
   --animation-custom_in-translate_y: 0px;
@@ -1018,7 +1006,7 @@
   margin: -72px 5px 0 123px;
 }
 
-.u-section-4 .u-text-4 {
+.u-section-4 .u-text-3 {
   font-weight: 300;
   font-size: 1rem;
   --animation-custom_in-translate_x: 300px;
@@ -1029,7 +1017,7 @@
   margin: 9px 5px 0 123px;
 }
 
-.u-section-4 .u-text-5 {
+.u-section-4 .u-text-4 {
   font-style: normal;
   line-height: 2.2;
   font-size: 1rem;
@@ -1052,7 +1040,7 @@
 .u-section-4 .u-image-2 {
   width: 106px;
   height: 106px;
-  background-image: url("images/WhatsAppImage2022-09-16at6.00.20PM-42.jpeg");
+  background-image: url("np://user.desktop.nicepage.com/Site_118766853/images/WhatsAppImage2022-09-16at6.00.20PM-42.jpeg?rand=dc31");
   background-position: 50% 32%;
   --animation-custom_in-translate_x: 50px;
   --animation-custom_in-translate_y: 0px;
@@ -1062,7 +1050,7 @@
   margin: 0 auto 0 0;
 }
 
-.u-section-4 .u-text-6 {
+.u-section-4 .u-text-5 {
   font-weight: 700;
   --animation-custom_in-translate_x: 300px;
   --animation-custom_in-translate_y: 0px;
@@ -1072,7 +1060,7 @@
   margin: -72px 5px 0 123px;
 }
 
-.u-section-4 .u-text-7 {
+.u-section-4 .u-text-6 {
   font-weight: 300;
   font-size: 1rem;
   --animation-custom_in-translate_x: 300px;
@@ -1083,7 +1071,7 @@
   margin: 9px 5px 0 123px;
 }
 
-.u-section-4 .u-text-8 {
+.u-section-4 .u-text-7 {
   font-style: normal;
   line-height: 2.2;
   font-size: 1rem;
@@ -1106,7 +1094,7 @@
 .u-section-4 .u-image-3 {
   width: 106px;
   height: 106px;
-  background-image: url("images/WhatsAppImage2022-09-16at6.05.11PM.jpeg");
+  background-image: url("np://user.desktop.nicepage.com/Site_118766853/images/WhatsAppImage2022-09-16at6.05.11PM.jpeg?rand=81ab");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 50px;
   --animation-custom_in-translate_y: 0px;
@@ -1116,7 +1104,7 @@
   margin: 0 auto 0 0;
 }
 
-.u-section-4 .u-text-9 {
+.u-section-4 .u-text-8 {
   font-weight: 700;
   --animation-custom_in-translate_x: 300px;
   --animation-custom_in-translate_y: 0px;
@@ -1126,7 +1114,7 @@
   margin: -72px 5px 0 123px;
 }
 
-.u-section-4 .u-text-10 {
+.u-section-4 .u-text-9 {
   font-weight: 300;
   font-size: 1rem;
   --animation-custom_in-translate_x: 300px;
@@ -1137,7 +1125,7 @@
   margin: 9px 5px 0 123px;
 }
 
-.u-section-4 .u-text-11 {
+.u-section-4 .u-text-10 {
   font-style: normal;
   line-height: 2.2;
   font-size: 1rem;
@@ -1151,6 +1139,8 @@
 
   .u-section-4 .u-list-1 {
     margin-bottom: 32px;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-4 .u-repeater-1 {
@@ -1161,18 +1151,18 @@
     padding-bottom: 17px;
   }
 
-  .u-section-4 .u-text-3 {
+  .u-section-4 .u-text-2 {
     margin-top: 20px;
     margin-right: 0;
     margin-left: 0;
   }
 
-  .u-section-4 .u-text-4 {
+  .u-section-4 .u-text-3 {
     margin-right: 0;
     margin-left: 0;
   }
 
-  .u-section-4 .u-text-5 {
+  .u-section-4 .u-text-4 {
     width: auto;
     margin-top: 20px;
     margin-left: 0;
@@ -1183,18 +1173,18 @@
     padding-bottom: 17px;
   }
 
-  .u-section-4 .u-text-6 {
+  .u-section-4 .u-text-5 {
     margin-top: 20px;
     margin-right: 0;
     margin-left: 0;
   }
 
-  .u-section-4 .u-text-7 {
+  .u-section-4 .u-text-6 {
     margin-right: 0;
     margin-left: 0;
   }
 
-  .u-section-4 .u-text-8 {
+  .u-section-4 .u-text-7 {
     width: auto;
     margin-top: 20px;
     margin-left: 0;
@@ -1205,18 +1195,18 @@
     padding-bottom: 17px;
   }
 
-  .u-section-4 .u-text-9 {
+  .u-section-4 .u-text-8 {
     margin-top: 20px;
     margin-right: 0;
     margin-left: 0;
   }
 
-  .u-section-4 .u-text-10 {
+  .u-section-4 .u-text-9 {
     margin-right: 0;
     margin-left: 0;
   }
 
-  .u-section-4 .u-text-11 {
+  .u-section-4 .u-text-10 {
     width: auto;
     margin-top: 20px;
     margin-left: 0;
@@ -1232,8 +1222,10 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-4 .u-text-2 {
-    width: 540px;
+  .u-section-4 .u-list-1 {
+    margin-top: 160px;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-4 .u-repeater-1 {
@@ -1269,13 +1261,11 @@
     margin-right: 0;
   }
 
-  .u-section-4 .u-text-2 {
-    width: 340px;
-    font-size: 0.875rem;
-  }
-
   .u-section-4 .u-list-1 {
+    margin-top: 170px;
     margin-bottom: 30px;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-4 .u-container-layout-1 {
@@ -1284,7 +1274,7 @@
     padding-right: 20px;
   }
 
-  .u-section-4 .u-text-5 {
+  .u-section-4 .u-text-4 {
     font-size: 0.875rem;
     margin-top: 0;
   }
@@ -1295,7 +1285,7 @@
     padding-right: 20px;
   }
 
-  .u-section-4 .u-text-8 {
+  .u-section-4 .u-text-7 {
     font-size: 0.875rem;
     margin-top: 0;
   }
@@ -1306,7 +1296,7 @@
     padding-right: 20px;
   }
 
-  .u-section-4 .u-text-11 {
+  .u-section-4 .u-text-10 {
     font-size: 0.875rem;
     margin-top: 0;
   }
@@ -1339,7 +1329,7 @@
 .u-section-5 .u-image-1 {
   width: 431px;
   height: 431px;
-  background-image: url("images/relaxation-7282116.jpg");
+  background-image: url("np://user.desktop.nicepage.com/Site_118766853/images/relaxation-7282116.jpg?rand=5bdf");
   background-position: 50% 100%;
   --animation-custom_in-translate_x: 300px;
   --animation-custom_in-translate_y: 0px;
@@ -1583,7 +1573,7 @@
 .u-section-6 .u-image-1 {
   width: 442px;
   height: 442px;
-  background-image: url("images/light-bulb-5661272.jpg");
+  background-image: url("np://user.desktop.nicepage.com/Site_118766853/images/light-bulb-5661272.jpg?rand=3011");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -2004,7 +1994,7 @@
     margin-bottom: -8px;
   }
 } .u-section-8 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("images/Untitleddesign.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("np://user.desktop.nicepage.com/Site_118766853/images/Untitleddesign.jpg?rand=0af7");
   background-position: 50% 0%;
 }
 
@@ -2069,8 +2059,7 @@
 }
 
 .u-section-9 .u-layout-wrap-1 {
-  margin-top: 23px;
-  margin-bottom: 23px;
+  margin: 2px 0 43px;
 }
 
 .u-section-9 .u-layout-cell-1 {
@@ -2197,6 +2186,11 @@
 @media (max-width: 1199px) {
   .u-section-9 .u-sheet-1 {
     min-height: 519px;
+  }
+
+  .u-section-9 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-9 .u-layout-cell-1 {
@@ -2346,6 +2340,8 @@
   .u-section-9 .u-layout-wrap-1 {
     margin-top: 12px;
     margin-bottom: 0;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-9 .u-layout-cell-1 {

@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("np://user.desktop.nicepage.com/Site_118766853/images/Untitleddesign2.jpg?rand=8f50");
+  background-image: url("images/Untitleddesign2.jpg");
   background-position: 50% 50%;
 }
 
@@ -320,8 +320,8 @@
 
 .u-section-4 .u-image-1 {
   min-height: 459px;
-  background-image: url("np://user.desktop.nicepage.com/Site_118766853/images/7496568_3304225.jpg?rand=5435");
-  background-position: 50% 75.99%;
+  background-image: url("images/7496568_3304225.jpg");
+  background-position: 50% 71.16%;
 }
 
 .u-section-4 .u-container-layout-1 {
@@ -333,15 +333,13 @@
 }
 
 .u-section-4 .u-container-layout-2 {
-  padding: 30px 0;
+  padding: 16px 0;
 }
 
 .u-section-4 .u-text-1 {
-  margin-top: 0;
   font-size: 8.125rem;
-  margin-right: 0;
-  margin-left: 0;
   font-weight: 700;
+  margin: 0;
 }
 
 .u-section-4 .u-layout-cell-3 {
@@ -364,7 +362,7 @@
 
 .u-section-4 .u-image-2 {
   min-height: 467px;
-  background-image: url("np://user.desktop.nicepage.com/Site_118766853/images/21654844684865.jpg?rand=8223");
+  background-image: url("images/21654844684865.jpg");
   background-position: 50% 50%;
 }
 
@@ -379,7 +377,7 @@
 }
 
 .u-section-4 .u-image-3 {
-  background-image: url("np://user.desktop.nicepage.com/Site_118766853/images/Untitleddesign3.png?rand=40ea");
+  background-image: url("images/Untitleddesign3.png");
   background-position: 50% 50%;
   min-height: 215px;
 }
@@ -389,7 +387,7 @@
 }
 
 .u-section-4 .u-image-4 {
-  background-image: url("np://user.desktop.nicepage.com/Site_118766853/images/Untitleddesign2.png?rand=b5f7");
+  background-image: url("images/Untitleddesign2.png");
   background-position: 50% 50%;
   min-height: 215px;
 }
@@ -399,7 +397,7 @@
 }
 
 .u-section-4 .u-image-5 {
-  background-image: url("np://user.desktop.nicepage.com/Site_118766853/images/fds.png?rand=e372");
+  background-image: url("images/fds.png");
   background-position: 50% 50%;
   min-height: 215px;
 }
@@ -558,7 +556,6 @@
   .u-section-4 .u-text-1 {
     width: auto;
     margin-right: 7px;
-    margin-bottom: 0;
     margin-left: -7px;
   }
 
@@ -651,14 +648,14 @@
 }
 
 .u-section-6 .u-image-1 {
-  width: 299px;
+  width: 338px;
   height: 338px;
   margin: 30px 0 -9px auto;
 }
 
 .u-section-6 .u-image-2 {
   min-height: 324px;
-  background-image: url("np://user.desktop.nicepage.com/Site_118766853/images/Untitleddesign1.png?rand=4ec1");
+  background-image: url("images/Untitleddesign1.png");
   background-position: 50% 50%;
 }
 

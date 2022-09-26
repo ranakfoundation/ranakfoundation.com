@@ -1,6 +1,6 @@
  .u-section-1 {
-  background-image: url("np://user.desktop.nicepage.com/Site_118766853/images/background-1462755.jpg?rand=7ba0");
-  background-position: 50% 50%;
+  background-image: url("images/background-1462755.jpg");
+  background-position: 35.09% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -22,7 +22,7 @@
 .u-section-1 .u-image-1 {
   width: 456px;
   height: 456px;
-  background-image: url("np://user.desktop.nicepage.com/Site_118766853/images/avisa1.png?rand=ef14");
+  background-image: url("images/avisa1.png");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -230,8 +230,8 @@
   min-height: 420px;
   margin-top: 0;
   margin-bottom: 0;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("np://user.desktop.nicepage.com/Site_118766853/images/pexels-suraphat-nueaon-933624.jpg");
-  background-position: 50% 50%;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("images/pexels-suraphat-nueaon-933624.jpg");
+  background-position: 50% 41.39%;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -715,8 +715,8 @@
 .u-section-3 .u-image-1 {
   height: 494px;
   width: 494px;
-  background-image: url("np://user.desktop.nicepage.com/Site_118766853/images/pexels-mica-asato-1198171.jpg?rand=dcee");
-  background-position: 82.25% 50%;
+  background-image: url("images/pexels-mica-asato-1198171.jpg");
+  background-position: 84.92% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
@@ -986,7 +986,7 @@
 .u-section-4 .u-image-1 {
   width: 106px;
   height: 106px;
-  background-image: url("np://user.desktop.nicepage.com/Site_118766853/images/WhatsAppImage2022-09-16at6.09.46PM-43.jpeg?rand=ab76");
+  background-image: url("images/WhatsAppImage2022-09-16at6.09.46PM.jpeg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 50px;
   --animation-custom_in-translate_y: 0px;
@@ -1040,8 +1040,8 @@
 .u-section-4 .u-image-2 {
   width: 106px;
   height: 106px;
-  background-image: url("np://user.desktop.nicepage.com/Site_118766853/images/WhatsAppImage2022-09-16at6.00.20PM-42.jpeg?rand=dc31");
-  background-position: 50% 32%;
+  background-image: url("images/WhatsAppImage2022-09-16at6.00.20PM.jpeg");
+  background-position: 50% 33.04%;
   --animation-custom_in-translate_x: 50px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
@@ -1094,7 +1094,7 @@
 .u-section-4 .u-image-3 {
   width: 106px;
   height: 106px;
-  background-image: url("np://user.desktop.nicepage.com/Site_118766853/images/WhatsAppImage2022-09-16at6.05.11PM.jpeg?rand=81ab");
+  background-image: url("images/WhatsAppImage2022-09-16at6.05.11PM.jpeg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 50px;
   --animation-custom_in-translate_y: 0px;
@@ -1329,8 +1329,8 @@
 .u-section-5 .u-image-1 {
   width: 431px;
   height: 431px;
-  background-image: url("np://user.desktop.nicepage.com/Site_118766853/images/relaxation-7282116.jpg?rand=5bdf");
-  background-position: 50% 100%;
+  background-image: url("images/relaxation-7282116.jpg");
+  background-position: 50% 50%;
   --animation-custom_in-translate_x: 300px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
@@ -1573,7 +1573,7 @@
 .u-section-6 .u-image-1 {
   width: 442px;
   height: 442px;
-  background-image: url("np://user.desktop.nicepage.com/Site_118766853/images/light-bulb-5661272.jpg?rand=3011");
+  background-image: url("images/light-bulb-5661272.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -1994,28 +1994,17 @@
     margin-bottom: -8px;
   }
 } .u-section-8 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("np://user.desktop.nicepage.com/Site_118766853/images/Untitleddesign.jpg?rand=0af7");
-  background-position: 50% 0%;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("images/swami-vivekanand-7-1578747428.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-8 .u-sheet-1 {
-  min-height: 756px;
-}
-
-.u-section-8 .u-icon-1 {
-  width: 64px;
-  height: 64px;
-  --animation-custom_in-translate_x: 0px;
-  --animation-custom_in-translate_y: 0px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 0.3;
-  margin: 135px 0 60px auto;
+  min-height: 698px;
 }
 
 @media (max-width: 1199px) {
   .u-section-8 .u-sheet-1 {
-    min-height: 557px;
+    min-height: 576px;
   }
 }
 
@@ -2025,17 +2014,13 @@
   }
 
   .u-section-8 .u-sheet-1 {
-    min-height: 462px;
-  }
-
-  .u-section-8 .u-icon-1 {
-    margin-top: 31px;
+    min-height: 441px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-8 .u-sheet-1 {
-    min-height: 366px;
+    min-height: 331px;
   }
 }
 
@@ -2045,14 +2030,7 @@
   }
 
   .u-section-8 .u-sheet-1 {
-    min-height: 245px;
-  }
-
-  .u-section-8 .u-icon-1 {
-    width: 42px;
-    height: 42px;
-    margin-top: 17px;
-    padding: 0;
+    min-height: 208px;
   }
 }.u-section-9 .u-sheet-1 {
   min-height: 650px;
@@ -2098,7 +2076,7 @@
 .u-section-9 .u-icon-1 {
   height: 22px;
   width: 22px;
-  margin: 0 auto 0 0;
+  margin: 14px auto 0 0;
 }
 
 .u-section-9 .u-text-2 {
@@ -2108,7 +2086,7 @@
 }
 
 .u-section-9 .u-text-3 {
-  margin: 20px 1px 0;
+  margin: 21px 1px 0;
 }
 
 .u-section-9 .u-container-layout-3 {
@@ -2118,7 +2096,7 @@
 .u-section-9 .u-icon-2 {
   height: 22px;
   width: 22px;
-  margin: 0 auto 0 0;
+  margin: 14px auto 0 0;
 }
 
 .u-section-9 .u-text-4 {
@@ -2128,7 +2106,7 @@
 }
 
 .u-section-9 .u-text-5 {
-  margin: 20px 1px 0;
+  margin: 21px 1px 0;
 }
 
 .u-section-9 .u-layout-cell-2 {
